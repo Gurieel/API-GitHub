@@ -1,0 +1,4 @@
+{
+  "users/:login": "users/:login",
+  "users/:loign/repos/*": "/repos/:login"
+}
